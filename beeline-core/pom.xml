@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>io.honeycomb.beeline</groupId>
+        <groupId>org.commonjava.honeycomb.beeline</groupId>
         <artifactId>beeline-parent</artifactId>
-        <version>1.0.9.commonjava-1-SNAPSHOT</version>
+        <version>1.0.9.commonjava-1-TEMP</version>
     </parent>
     <name>Beeline Java (Core)</name>
     <artifactId>beeline-core</artifactId>

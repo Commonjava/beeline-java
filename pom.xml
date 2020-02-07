@@ -6,8 +6,8 @@
 
     <name>Beeline Java (Parent)</name>
     <artifactId>beeline-parent</artifactId>
-    <groupId>io.honeycomb.beeline</groupId>
-    <version>1.0.9.commonjava-1-SNAPSHOT</version>
+    <groupId>org.commonjava.honeycomb.beeline</groupId>
+    <version>1.0.9.commonjava-1-TEMP</version>
     <packaging>pom</packaging>
 
     <description>Parent POM for the Honeycomb Beeline for Java</description>
@@ -27,7 +27,6 @@
 
     <modules>
         <module>beeline-core</module>
-        <module>beeline-spring-boot-starter</module>
     </modules>
 
     <scm>
