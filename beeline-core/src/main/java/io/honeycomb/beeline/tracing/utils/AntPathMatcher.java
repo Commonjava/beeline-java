@@ -395,8 +395,8 @@ public class AntPathMatcher implements PathMatcher {
 
     /**
      * Tests whether or not a string matches against a pattern via a {@link Pattern}.
-     * <p>The pattern may contain special characters: '*' means zero or more characters; '?' means one and
-     * only one character; '{' and '}' indicate a URI template pattern. For example <tt>/users/{user}</tt>.
+     * The pattern may contain special characters: '*' means zero or more characters; '?' means one and
+     * only one character; '{' and '}' indicate a URI template pattern. For example {@code /users/{user}}.
      */
     protected static class AntPathStringMatcher {
 
